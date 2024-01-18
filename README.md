@@ -1,53 +1,34 @@
 
-# Project 3 - Amalger - Part II
+# Project 3 - Amalger
 
 Amalger is a basic twitter clone app to view, compose, favorite, and retweet tweets.
 
-Time spent: **6** hours spent in total
+Time spent: **14** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The completed features:
 
-- [✅] User can compose a tweet. (4pts)
-- [✅] User can favorite a tweet. (4pts)
-- [✅] User can retweet a tweet. (2pts)
+- [✅] User can compose a tweet.
+- [✅] User can favorite a tweet.
+- [✅] User can retweet a tweet.
+- [✅] User sees app icon in home screen and styled launch screen.
+- [✅] User can log in.
+- [✅] User can log out.
+- [✅] User stays logged in across restarts.
+- [✅] User can view tweets with the user profile picture, username, and tweet text.
+- [✅] User can pull to refresh.
+- [✅] User can load past tweets infinitely.
 
-The following **bonus** features are implemented:
+## Video Walkthrough 1
 
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 <img src='http://g.recordit.co/Jhe6h0DyU1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Video Walkthrough 2
 
-# Project 3 - Amalger- Part I
-
-Time spent: **8** hours spent in total
-
-## User Stories
-
-The following **required** functionality is completed:
-
-- [✅] User sees app icon in home screen and styled launch screen. (1pt)
-- [✅] User can log in. (1pt)
-- [✅] User can log out. (1pt)
-- [✅] User stays logged in across restarts. (1pt)
-- [✅] User can view tweets with the user profile picture, username, and tweet text. (6pts)
-
-The following **bonus** features are implemented:
-
-- [✅] User can pull to refresh. (1pt)
-- [✅] User can load past tweets infinitely. (2pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+Here's another walkthrough of implemented features:
 
 Link to Walkthrough:
 https://imgur.com/a/ZDA1Hgk
